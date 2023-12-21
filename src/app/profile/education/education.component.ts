@@ -13,7 +13,7 @@ export class EducationComponent implements OnInit {
   constructor(private profileService:ProfileService) { }
 
   ngOnInit() {
-    this.eduData =  this.profileService.educationData()
+    this.eduData =  this.profileService.education()
   }
 
 }

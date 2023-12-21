@@ -16,17 +16,14 @@ export class ProfileService {
   projects:any = [
 
     {
-      id: 11,
+      id: 1,
       title: 'Personal Portfolio Using Angular',
       desc: '',
-      livedemo: 'https://personal-portfolio0320.000webhostapp.com/',
-      githurl: 'https://github.com/mehulk05/Personal-Portfolio-Angular-Updated',
-      mediumlink: 'https://javascript.plainenglish.io/personal-portfolio-using-angular-8-and-bootstrap-5dde6fc7cf9b',
-      imgUrl: 'assets/images/z11.png',
+      livedemo: 'https://priya240896.github.io/portfolio/',
+      githurl: 'https://github.com/priya240896/portfolio/',
+      imgUrl: 'assets/images/portfolio.png',
       tech: 'Angular ,Bootstrap'
     }
-
-
 
   ]
   about2 = `Software Developer with 4+ years of experience .
